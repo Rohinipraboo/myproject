@@ -1,2 +1,2 @@
 # myproject
-This is my project on github
+order yummy pizzas through this online pizza ordering app.
